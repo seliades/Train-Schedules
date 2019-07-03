@@ -1,0 +1,12 @@
+th, td {
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/blur-city-clouds-417013.jpg");
+    background-size: 100%;
+}
+
+.card {
+    background-color: rgba(228, 241, 208, 0.83);
+}
